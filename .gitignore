@@ -1,0 +1,23 @@
+# node-modules/ ignora todas as pastas chamadas node_modules no projeto
+node_modules/
+
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de configuração local
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
